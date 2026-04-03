@@ -2,7 +2,7 @@
 
 ![Status projektu](https://img.shields.io/badge/status-active-brightgreen)
 
-**fIPTV Player** to nowoczesna, lekka i intuicyjna aplikacja desktopowa do odtwarzania telewizji internetowej (IPTV). Została stworzona z myślą o użytkownikach ceniących minimalistyczny design oraz prostotę konfiguracji.
+**[fIPTV Player](https://dawid9707.github.io/fIPTV-Player.github.io/)** to nowoczesna, lekka i intuicyjna aplikacja desktopowa do odtwarzania telewizji internetowej (IPTV). Została stworzona z myślą o użytkownikach ceniących minimalistyczny design oraz prostotę konfiguracji.
 
 ---
 
